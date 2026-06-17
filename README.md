@@ -2,7 +2,7 @@
 ### Evidence from Six U.S. Equities (2020–2025)
 
 **Author:** Reid Fintak  
-**Preprint:** *LINK_PLACEHOLDER*
+**Preprint:** (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6858299)
 
 ---
 
